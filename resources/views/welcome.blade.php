@@ -41,7 +41,7 @@
         text-align: center;
         margin-right: auto;
         margin-left: auto;
-        margin-top: 125%; /* Adjusted margin-top as per your requirement */
+        margin-top: 100%; /* Adjusted margin-top as per your requirement */
     }
 }
 
