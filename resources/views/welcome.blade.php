@@ -38,10 +38,11 @@
 @media only screen and (max-width: 768px) {
     #styleC {
         /* Center alignment */
+        position: fixed;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 10%; /* Adjusted margin-bottom for bottom alignment */
         text-align: center;
-        margin-right: auto;
-        margin-left: auto;
-        margin-top: 100%; /* Adjusted margin-top as per your requirement */
     }
 }
 
